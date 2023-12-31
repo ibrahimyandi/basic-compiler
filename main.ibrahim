@@ -1,0 +1,10 @@
+yazdir("Merhaba Dunya")
+yazdir(2+4+6+8+10)
+yazdir(sayiDizisi(10))
+yazdir(sayiDizisi(10,20))
+yazdir(sayiDizisi(4,30,4))
+yazdir(altDize("Hello World",6,5))
+
+//Hesap makinesi
+//özel bir fonksiyon
+//String ve int değişken

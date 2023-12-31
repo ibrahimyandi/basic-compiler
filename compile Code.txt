@@ -1,0 +1,5 @@
+g++ -o iyCompiler.exe main.cpp
+./iyCompiler.exe main.ibrahim
+
+python range
+range(0,10,2)
